@@ -5,29 +5,29 @@ Camada de Rede faz o roteamento de dados entre redes diferentes e trabalha em pa
 O protocolo mais importante é o IP.
 
 2 - Solução Proprietária (Windows)
-	Pontos Positivos:
+	Pontos positivos:
 
-	- Suporte técnico oficial e documentação profunda
-	- Interface gráfica conhecida e completa
-	- Compatibilidade com muitos softwares e drivers
+	- suporte técnico oficial e documentação profunda
+	- interface gráfica conhecida e completa
+	- compatibilidade com muitos softwares e drivers
 
-	Pontos Negativos:
+	Pontos negativos:
 
-	- Custo de licenciamento pode ser alto (e usualmente é)
-	- Menor flexibilidade para customização
-	- Depende do fornecedor para correção e atualização
+	- custo de licenciamento pode ser alto (e usualmente é)
+	- menor flexibilidade para customização
+	- depende do fornecedor para correção e atualização
 
 Solução Open Source (Ubuntu)
-	Pontos Positivos:
+	Pontos positivos:
 
-	- Gratuito e de código aberto, permitindo modificações, distribuições diferentes, etc
-	- Maior flexibilidade e customização
-	- Comunidade ativa para suporte e desenvolvimento
+	- gratuito e de código aberto, permitindo modificações, distribuições diferentes, etc
+	- maior flexibilidade e customização
+	- comunidade ativa para suporte e desenvolvimento
 
-	Pontos Negativos:
+	Pontos negativos:
 	- geralmente precisa de maior conhecimento técnico para configuração e manutenção
-	- Compatibilidade com alguns softwares e drivers usualmente limitada
-	- Menor suporte oficial comparado a soluções proprietárias
+	- compatibilidade com alguns softwares e drivers usualmente limitada
+	- menor suporte oficial comparado a soluções proprietárias
 
 3 - Projeto Open Source é onde o codigo fonte é disponibilizado publicamente, aberto a modificações dos usuarios.
 Empresas podem adotar a medida para redução de custo com licenças, melhor colaboração com a comunidade e usuarios 
