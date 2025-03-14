@@ -30,5 +30,7 @@ Solução Open Source (Ubuntu)
 	- Menor suporte oficial comparado a soluções proprietárias
 
 3 - Projeto Open Source é onde o codigo fonte é disponibilizado publicamente, aberto a modificações dos usuarios.
-Empresas podem adotar a medida para redução de custo com licenças, melhor colaboração com a comunidade e usuarios pra melhorias e inovações, mas maior que isso, para aceitação dos usuarios com o software.
-Temos que levar em consideração também que, promovendo esse nivel de inovação e colaboração que pode acelerar o desenvolvimento de soluções, também pode acarretar em um desafio de segurança dependendo da tencnologia em questão.
+Empresas podem adotar a medida para redução de custo com licenças, melhor colaboração com a comunidade e usuarios 
+pra melhorias e inovações, mas maior que isso, para aceitação dos usuarios com o software.
+Temos que levar em consideração também que, promovendo esse nivel de inovação e colaboração que pode acelerar o 
+desenvolvimento de soluções, também pode acarretar em um desafio de segurança dependendo da tencnologia em questão.
