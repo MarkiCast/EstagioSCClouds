@@ -1,0 +1,34 @@
+1 - Camada de Enlace corrige erros da camada fisica, fica responsavel pela comunicação na LAN e lida em frames de dados.
+Os protocolos de endereçamento são ethernet, wi-fi, entre outros
+
+Camada de Rede faz o roteamento de dados entre redes diferentes e trabalha em pacotes.
+O protocolo mais importante é o IP.
+
+2 - Solução Proprietária (Windows)
+	Pontos Positivos:
+
+	- Suporte técnico oficial e documentação profunda
+	- Interface gráfica conhecida e completa
+	- Compatibilidade com muitos softwares e drivers
+
+	Pontos Negativos:
+
+	- Custo de licenciamento pode ser alto (e usualmente é)
+	- Menor flexibilidade para customização
+	- Depende do fornecedor para correção e atualização
+
+Solução Open Source (Ubuntu)
+	Pontos Positivos:
+
+	- Gratuito e de código aberto, permitindo modificações, distribuições diferentes, etc
+	- Maior flexibilidade e customização
+	- Comunidade ativa para suporte e desenvolvimento
+
+	Pontos Negativos:
+	- geralmente precisa de maior conhecimento técnico para configuração e manutenção
+	- Compatibilidade com alguns softwares e drivers usualmente limitada
+	- Menor suporte oficial comparado a soluções proprietárias
+
+3 - Projeto Open Source é onde o codigo fonte é disponibilizado publicamente, aberto a modificações dos usuarios.
+Empresas podem adotar a medida para redução de custo com licenças, melhor colaboração com a comunidade e usuarios pra melhorias e inovações, mas maior que isso, para aceitação dos usuarios com o software.
+Temos que levar em consideração também que, promovendo esse nivel de inovação e colaboração que pode acelerar o desenvolvimento de soluções, também pode acarretar em um desafio de segurança dependendo da tencnologia em questão.
